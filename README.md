@@ -43,7 +43,6 @@ After more than a decade telling stories through images, I now focus on building
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandrogoscu&show_icons=true&theme=tokyonight" alt="Alex's GitHub stats" height="165" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrogoscu&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
 </p>
 
