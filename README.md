@@ -62,13 +62,14 @@ After more than a decade telling stories through images, I now focus on building
 
 <p align="left">
   <a href="https://github.com/alejandrogoscu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" style="margin-right: 15px;" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 20px; height:35px;" />
   </a>
   <a href="https://www.linkedin.com/in/alejandrogoscu">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 15px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 20px; height:35px;" />
   </a>
   <a href="mailto:alejandrogoscu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="margin-right: 15px;" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-right: 20px; height:35px;" />
   </a>
 </p>
+
 
