@@ -61,9 +61,7 @@ After more than a decade telling stories through images, I now focus on building
 ## 📫 Let’s connect  
 
 <p align="left">
-  <a href="https://github.com/alejandrogoscu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 20px; height:35px;" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/alejandrogoscu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 20px; height:35px;" />
   </a>
