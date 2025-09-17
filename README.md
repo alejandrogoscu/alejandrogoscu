@@ -1,7 +1,7 @@
 # Hi there, I’m Alex 👋  
 
-I’m a **Full Stack Developer** with a not-so-secret past life as a film, TV, and advertising editor 🎬.  
-After more than a decade telling stories through images, I now focus on building **digital experiences** where functionality and creativity meet.  
+I'm a recent graduate from the Full Stack Development Bootcamp at [The Bridge](https://thebridge.tech/).
+After more than a decade telling stories through images, I now focus on building **digital experiences** where functionality and creativity meet.   
 
 ---
 
