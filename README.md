@@ -14,7 +14,7 @@ After more than a decade telling stories through images, I now focus on building
 
 ## 🚀 Projects  
 - [**mercatGO**](https://mercatgo.vercel.app/) – Discover Valencia’s local markets and dive into their history, flavors, and tradition
-- [**PabloLloter**](https://pablolloretportfolio.vercel.app/) – A modern, full-stack portfolio website for Pablo Lloret, a professional video editor
+- [**PabloLloret**](https://pablolloretportfolio.vercel.app/) – A modern, full-stack portfolio website for Pablo Lloret, a professional video editor
 
 ---
 
