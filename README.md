@@ -6,7 +6,7 @@ After more than a decade telling stories through images, I now focus on building
 ---
 
 ## 🌱 What I do  
-- Develop web applications with **JavaScript, React, Node.js, Express, SQL & MongoDB**  
+- Develop web applications with **JavaScript, TypeScript, React, Node.js, Express, SQL & MongoDB**  
 - Design and structure projects that feel smooth and engaging  
 - Work in teams, listen to feedback, and turn ideas into something people can actually use  
 
